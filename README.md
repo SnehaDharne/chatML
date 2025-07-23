@@ -28,6 +28,6 @@ streamlit run main.py
 ---
 
 ## Example prompts
-“Train a decision tree on the data”
-“What hyperparameters can I use for SVM?”
-“Run a logistic regression with regularization”
+- “Train a decision tree on the data”
+- “What hyperparameters can I use for SVM?”
+- “Run a logistic regression with regularization”

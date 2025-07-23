@@ -4,3 +4,4 @@
 .gitignore
 *.ipynb
 *.json
+*.csv
